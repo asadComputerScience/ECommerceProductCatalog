@@ -1,4 +1,4 @@
-# Product Management System
+# Product Catalog System
 
 This project is a basic Product Management System that allows you to view, filter, edit, and delete products. Product images are managed and stored in the `wwwroot` folder.
 
