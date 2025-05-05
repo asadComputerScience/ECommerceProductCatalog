@@ -6,7 +6,7 @@ This project is a basic Product Management System that allows you to view, filte
 
 ## Database Setup
 
-1.  **Navigate to the project directory** and locate the SQL script file containing the database setup scripts.
+1.  **Navigate to the project directory** and locate the SQL script file containing the database setup scripts. This folder may also contain stored procedure scripts.
 
 2.  **Run the script** to create the necessary tables:
    As there are currently no user interface screens for adding new categories or products. Please use the provided SQL `INSERT` queries to manage the initial data.
